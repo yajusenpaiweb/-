@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# 公開後に実際のドメインに書き換えてください
-# Sitemap: https://[your-domain]/sitemap.xml
+Sitemap: https://yajusenpaiweb.github.io/-/sitemap.xml
